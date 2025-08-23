@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm Aakash Kumar Singh  
+
+🎓 3rd-year B.Tech CSE student at GL Bajaj Institute of Technology and Management.  
+💻 Passionate about **Java Development, DSA, Web Development, and AI/ML projects**.  
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Java, C, Python  
+- **Web:** HTML, CSS, JavaScript, Node.js, Express.js  
+- **Mobile:** Flutter  
+- **Database:** MongoDB, MySQL  
+- **Other:** Git/GitHub, REST APIs, Data Structures & Algorithms  
+
+---
+
+## 📌 Current Goals
+- Master **DSA with Java**  
+- Build and deploy **full-stack projects**  
+- Explore **AI/ML applications**    
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/aakash-kr-singh-8989152ab)  
+- [Email](mailto:aksrajput3453@gmail.com)  
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AAAKAAAS&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
