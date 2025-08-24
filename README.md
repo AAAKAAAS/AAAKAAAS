@@ -8,7 +8,7 @@
 ## 🔧 Tech Stack
 - **Languages:** Java, C, Python  
 - **Web:** HTML, CSS, JavaScript, Node.js, Express.js  
-- **Mobile:** Flutter  
+- **Mobile:** Flutter(learning)  
 - **Database:** MongoDB, MySQL  
 - **Other:** Git/GitHub, REST APIs, Data Structures & Algorithms  
 
