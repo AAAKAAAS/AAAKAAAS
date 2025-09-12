@@ -23,7 +23,7 @@
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/aakash-kr-singh-8989152ab)  
-- [Email](mailto:aksrajput3453@gmail.com)  
+- [Email](mailto:cse23327@glbitm.ac.in)  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AAAKAAAS&theme=highcontrast)](https://git.io/streak-stats)
 
