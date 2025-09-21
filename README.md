@@ -16,7 +16,7 @@
 
 ## 📌 Current Goals
 - Master **DSA with Java**  
-- Build and deploy **full-stack projects**  
+- Build and deploy **mern-stack projects**  
 - Explore **AI/ML applications**    
 
 ---
