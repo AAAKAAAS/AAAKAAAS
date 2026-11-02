@@ -7,7 +7,7 @@
 
 ## 🔧 Tech Stack
 - **Languages:** Java, C, Python  
-- **Web:** HTML, CSS, JavaScript, Node.js, Express.js  
+- **Web:** HTML, CSS, JavaScript, SpringBoot  
 - **Mobile:** Flutter(learning)  
 - **Database:** MongoDB, MySQL  
 - **Other:** Git/GitHub, REST APIs, Data Structures & Algorithms  
@@ -16,7 +16,7 @@
 
 ## 📌 Current Goals
 - Master **DSA with Java**  
-- Build and deploy **mern-stack projects**  
+- Build and deploy **Java Full-Stack Projects**  
 - Explore **AI/ML applications**    
 
 ---
